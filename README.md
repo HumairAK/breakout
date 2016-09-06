@@ -30,5 +30,5 @@ Controls:
 
 
 #Authors
-*Nana Nosirova
-*Humair Khan
+ * Nana Nosirova
+ * Humair Khan
