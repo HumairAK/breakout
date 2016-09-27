@@ -25,7 +25,7 @@ Steps for project setup, compliation and running:
   * The VGA display should now display the game. 
 
 Controls: 
-[To be added]
+paddle control : KEY[1:0], reset_state : KEY[2]
   
 
 
